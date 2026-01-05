@@ -1,10 +1,16 @@
 # Task 3: Customer Support Chatbot
 
-This task involves building a simple AI-powered chatbot to handle customer support queries.
+This task builds a simple customer support chatbot using Streamlit.
 
-Tools used:
-- Python
-- Streamlit
-- Basic NLP / Rule-based logic
+## Steps followed
+- Loaded customer support CSV file using Pandas
+- Implemented basic rule-based chatbot logic
+- Created an interactive chatbot interface using Streamlit
 
-The chatbot answers common customer questions such as service details, contact information, and support queries.
+## Tools used
+- Python  
+- Pandas  
+- Streamlit  
+
+## Note
+The Streamlit app cannot be opened in the browser due to Colab environment limitations.
